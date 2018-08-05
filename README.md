@@ -2,6 +2,7 @@
 ## Superspeed.sh
 - Description: Test your server's network with Speedtest to China
 - Intro:  https://www.wn789.com/9504.html
+- Intro:  https://www.sabia.cc/bash-superspeed-sh.html
 - Copyright (C) 2017 - 2017 Oldking <oooldking@gmail.com>
  
 ```bash
